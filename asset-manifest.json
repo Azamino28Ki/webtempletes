@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/webtempletes/static/css/main.18e9b639.chunk.css",
-    "main.js": "/webtempletes/static/js/main.0b444cd4.chunk.js",
-    "main.js.map": "/webtempletes/static/js/main.0b444cd4.chunk.js.map",
-    "runtime-main.js": "/webtempletes/static/js/runtime-main.17550a06.js",
-    "runtime-main.js.map": "/webtempletes/static/js/runtime-main.17550a06.js.map",
-    "static/js/2.7a19725a.chunk.js": "/webtempletes/static/js/2.7a19725a.chunk.js",
-    "static/js/2.7a19725a.chunk.js.map": "/webtempletes/static/js/2.7a19725a.chunk.js.map",
-    "index.html": "/webtempletes/index.html",
-    "precache-manifest.7ee5d8c1b37dd409770658c686a90431.js": "/webtempletes/precache-manifest.7ee5d8c1b37dd409770658c686a90431.js",
-    "service-worker.js": "/webtempletes/service-worker.js",
-    "static/css/main.18e9b639.chunk.css.map": "/webtempletes/static/css/main.18e9b639.chunk.css.map",
-    "static/media/3DRepresation.PNG": "/webtempletes/static/media/3DRepresation.c8bcd2e5.PNG",
-    "static/media/Gradient_Details.PNG": "/webtempletes/static/media/Gradient_Details.7a8a0d71.PNG",
-    "static/media/ListMenue.PNG": "/webtempletes/static/media/ListMenue.68a1fb7e.PNG",
-    "static/media/Navigation.PNG": "/webtempletes/static/media/Navigation.109c74c9.PNG",
-    "static/media/TextAnimation.PNG": "/webtempletes/static/media/TextAnimation.a5bd390d.PNG"
+    "main.css": "./static/css/main.18e9b639.chunk.css",
+    "main.js": "./static/js/main.0b444cd4.chunk.js",
+    "main.js.map": "./static/js/main.0b444cd4.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.050adf49.js",
+    "runtime-main.js.map": "./static/js/runtime-main.050adf49.js.map",
+    "static/js/2.7a19725a.chunk.js": "./static/js/2.7a19725a.chunk.js",
+    "static/js/2.7a19725a.chunk.js.map": "./static/js/2.7a19725a.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.7ced4d15797ee910b57e1d0a922c2091.js": "./precache-manifest.7ced4d15797ee910b57e1d0a922c2091.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.18e9b639.chunk.css.map": "./static/css/main.18e9b639.chunk.css.map",
+    "static/media/3DRepresation.PNG": "./static/media/3DRepresation.c8bcd2e5.PNG",
+    "static/media/Gradient_Details.PNG": "./static/media/Gradient_Details.7a8a0d71.PNG",
+    "static/media/ListMenue.PNG": "./static/media/ListMenue.68a1fb7e.PNG",
+    "static/media/Navigation.PNG": "./static/media/Navigation.109c74c9.PNG",
+    "static/media/TextAnimation.PNG": "./static/media/TextAnimation.a5bd390d.PNG"
   }
 }

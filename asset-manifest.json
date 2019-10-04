@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.18e9b639.chunk.css",
-    "main.js": "./static/js/main.51a608fb.chunk.js",
-    "main.js.map": "./static/js/main.51a608fb.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.050adf49.js",
-    "runtime-main.js.map": "./static/js/runtime-main.050adf49.js.map",
-    "static/js/2.f55969e9.chunk.js": "./static/js/2.f55969e9.chunk.js",
-    "static/js/2.f55969e9.chunk.js.map": "./static/js/2.f55969e9.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.8cefce22266cbf95f9fb679919f3f425.js": "./precache-manifest.8cefce22266cbf95f9fb679919f3f425.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.18e9b639.chunk.css.map": "./static/css/main.18e9b639.chunk.css.map",
-    "static/media/3DRepresation.PNG": "./static/media/3DRepresation.c8bcd2e5.PNG",
-    "static/media/Gradient_Details.PNG": "./static/media/Gradient_Details.7a8a0d71.PNG",
-    "static/media/ListMenue.PNG": "./static/media/ListMenue.68a1fb7e.PNG",
-    "static/media/Navigation.PNG": "./static/media/Navigation.109c74c9.PNG",
-    "static/media/TextAnimation.PNG": "./static/media/TextAnimation.a5bd390d.PNG"
+    "main.css": "/webtempletes/static/css/main.18e9b639.chunk.css",
+    "main.js": "/webtempletes/static/js/main.bb6f2de6.chunk.js",
+    "main.js.map": "/webtempletes/static/js/main.bb6f2de6.chunk.js.map",
+    "runtime-main.js": "/webtempletes/static/js/runtime-main.17550a06.js",
+    "runtime-main.js.map": "/webtempletes/static/js/runtime-main.17550a06.js.map",
+    "static/js/2.7a19725a.chunk.js": "/webtempletes/static/js/2.7a19725a.chunk.js",
+    "static/js/2.7a19725a.chunk.js.map": "/webtempletes/static/js/2.7a19725a.chunk.js.map",
+    "index.html": "/webtempletes/index.html",
+    "precache-manifest.19fcfa4eb9ab2fdf3df810d537138c69.js": "/webtempletes/precache-manifest.19fcfa4eb9ab2fdf3df810d537138c69.js",
+    "service-worker.js": "/webtempletes/service-worker.js",
+    "static/css/main.18e9b639.chunk.css.map": "/webtempletes/static/css/main.18e9b639.chunk.css.map",
+    "static/media/3DRepresation.PNG": "/webtempletes/static/media/3DRepresation.c8bcd2e5.PNG",
+    "static/media/Gradient_Details.PNG": "/webtempletes/static/media/Gradient_Details.7a8a0d71.PNG",
+    "static/media/ListMenue.PNG": "/webtempletes/static/media/ListMenue.68a1fb7e.PNG",
+    "static/media/Navigation.PNG": "/webtempletes/static/media/Navigation.109c74c9.PNG",
+    "static/media/TextAnimation.PNG": "/webtempletes/static/media/TextAnimation.a5bd390d.PNG"
   }
 }

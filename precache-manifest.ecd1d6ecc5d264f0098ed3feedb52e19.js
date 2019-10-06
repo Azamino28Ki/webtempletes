@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5432ab5b5877e6474966576a632f68eb",
+    "revision": "4c44072696b1e8e7f2085f43d4000faf",
     "url": "/webtempletes/index.html"
   },
   {

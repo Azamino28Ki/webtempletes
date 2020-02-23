@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/webtempletes/static/css/main.f841440f.chunk.css",
-    "main.js": "/webtempletes/static/js/main.73cac6e8.chunk.js",
-    "main.js.map": "/webtempletes/static/js/main.73cac6e8.chunk.js.map",
+    "main.css": "/webtempletes/static/css/main.b32bbcf4.chunk.css",
+    "main.js": "/webtempletes/static/js/main.eedae45a.chunk.js",
+    "main.js.map": "/webtempletes/static/js/main.eedae45a.chunk.js.map",
     "runtime-main.js": "/webtempletes/static/js/runtime-main.17550a06.js",
     "runtime-main.js.map": "/webtempletes/static/js/runtime-main.17550a06.js.map",
-    "static/js/2.e62b4732.chunk.js": "/webtempletes/static/js/2.e62b4732.chunk.js",
-    "static/js/2.e62b4732.chunk.js.map": "/webtempletes/static/js/2.e62b4732.chunk.js.map",
+    "static/js/2.b1719dad.chunk.js": "/webtempletes/static/js/2.b1719dad.chunk.js",
+    "static/js/2.b1719dad.chunk.js.map": "/webtempletes/static/js/2.b1719dad.chunk.js.map",
     "index.html": "/webtempletes/index.html",
-    "precache-manifest.28bc0678488a0a72bfb559d8ac46fd94.js": "/webtempletes/precache-manifest.28bc0678488a0a72bfb559d8ac46fd94.js",
+    "precache-manifest.7aa5b7a262260405000c76616eb6c4ec.js": "/webtempletes/precache-manifest.7aa5b7a262260405000c76616eb6c4ec.js",
     "service-worker.js": "/webtempletes/service-worker.js",
-    "static/css/main.f841440f.chunk.css.map": "/webtempletes/static/css/main.f841440f.chunk.css.map",
+    "static/css/main.b32bbcf4.chunk.css.map": "/webtempletes/static/css/main.b32bbcf4.chunk.css.map",
     "static/media/3DRepresation.PNG": "/webtempletes/static/media/3DRepresation.10de8637.PNG",
     "static/media/Gradient_Details.PNG": "/webtempletes/static/media/Gradient_Details.ac979cb5.PNG",
-    "static/media/ListMenue.PNG": "/webtempletes/static/media/ListMenue.cdf26d9d.PNG",
-    "static/media/Navigation.PNG": "/webtempletes/static/media/Navigation.ada5c826.PNG",
+    "static/media/ListMenue.PNG": "/webtempletes/static/media/ListMenue.2ecc8d75.PNG",
     "static/media/TextAnimation.PNG": "/webtempletes/static/media/TextAnimation.ec788c20.PNG"
   }
 }

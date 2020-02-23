@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48cb5bfff4a96aae7b24526b5eb54062",
+    "revision": "d9bfc2e10eb2d845a3710604b7aa123c",
     "url": "/webtempletes/index.html"
   },
   {
-    "revision": "08c132e435348ea1f2ce",
-    "url": "/webtempletes/static/css/main.f841440f.chunk.css"
+    "revision": "13848d03ad1a6db1dcd9",
+    "url": "/webtempletes/static/css/main.b32bbcf4.chunk.css"
   },
   {
-    "revision": "ceb82fd2b8ec24fc4c15",
-    "url": "/webtempletes/static/js/2.e62b4732.chunk.js"
+    "revision": "a97d7ff2c781a5a23678",
+    "url": "/webtempletes/static/js/2.b1719dad.chunk.js"
   },
   {
-    "revision": "08c132e435348ea1f2ce",
-    "url": "/webtempletes/static/js/main.73cac6e8.chunk.js"
+    "revision": "13848d03ad1a6db1dcd9",
+    "url": "/webtempletes/static/js/main.eedae45a.chunk.js"
   },
   {
     "revision": "e68b553a08a8cfbfbc52",
@@ -28,12 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webtempletes/static/media/Gradient_Details.ac979cb5.PNG"
   },
   {
-    "revision": "cdf26d9db9a2b0e77d17b28c0a6dd0f8",
-    "url": "/webtempletes/static/media/ListMenue.cdf26d9d.PNG"
-  },
-  {
-    "revision": "ada5c826e4d584349ca532774485ef47",
-    "url": "/webtempletes/static/media/Navigation.ada5c826.PNG"
+    "revision": "2ecc8d752691e88cf52b2946ae309d1a",
+    "url": "/webtempletes/static/media/ListMenue.2ecc8d75.PNG"
   },
   {
     "revision": "ec788c2050a6fbb0d8fd0d333e0f186a",
